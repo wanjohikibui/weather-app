@@ -1,0 +1,25 @@
+.x-mask.splashscreen {
+background-color: #efefef;
+opacity: 1;
+}
+.x-mask-msg.splashscreen,
+.x-mask-msg.splashscreen div {
+font-size: 16px;
+font-weight: bold;
+padding-top : 17px;
+padding-right : 40px;
+border: none;
+background-color: transparent;
+background-position: top center;
+}
+.x-message-box .x-window-body .x-box-inner {
+min-height: 93px !important;
+}
+.x-splash-icon {
+background-image: url('../images/live.png') !important;
+background-repeat : no-repeat;
+margin-top: -30px;
+margin-bottom: 15px;
+height: 100px;
+width : 100px;
+}
