@@ -48,8 +48,6 @@ Ext.Loader.setConfig({
 ```
 Run the index.html on browser
 
-#Working Demo
-The demo can be accessed through this url http://apps.lifeingis.com/weather-app
 
 
 
