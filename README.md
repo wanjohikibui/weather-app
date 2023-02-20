@@ -46,7 +46,7 @@ Ext.Loader.setConfig({
 
 </script>
 ```
-Run the index.html on browser
+Open the index.html on browser
 
 
 
